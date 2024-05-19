@@ -7,7 +7,7 @@ https://docs.google.com/spreadsheets/d/1Ez8RhO1rE2QikfdddOZ19eEZhN4r6eW7WHb9qB05
 * **Data Cleaning** - For that, I deleted a column 'Postal code' that contained 80% of empty cells and then removed duplicates.
 * **Data Modelling** - Added some measures and columns for easy visualisation of data. Created a relationship between tables using common columns and connecting factors.
 * Added necessary visuals for analysing data.
-* 
+  
 ### Some Insights are given below ###
 
 * Used Pie chart to represent total sale by ship mode. Highest sale was reported in Standard Class.
@@ -24,7 +24,9 @@ https://docs.google.com/spreadsheets/d/1Ez8RhO1rE2QikfdddOZ19eEZhN4r6eW7WHb9qB05
 * Used line chart to represent sale by region. Highest sale was reported in Central region.
 
 -- Added some cards using measures added in the table.
+
 -- Added some slicers to filter data.
+
 -- Added a detailed sales report on tabel including all the relevant details.
 
 
